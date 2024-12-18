@@ -101,7 +101,6 @@ Refer to the API documentation or browse through the source code for more detail
 
 - **app/**: Main application directory containing core functionality.
 - **templates/**: HTML templates for the frontend (if any).
-- **static/**: Static files (CSS, JavaScript, images).
 - **db.sqlite3**: SQLite3 database file.
 - **manage.py**: Django management script.
 
